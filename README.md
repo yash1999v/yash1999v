@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yash1999v
 - 👀 I’m interested in web technolgies
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development and DevOps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @yashwanth1999v@gmail.com
 
