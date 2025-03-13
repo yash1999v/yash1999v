@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @yash1999v
+- 👋 Hi, I’m Yashwanth V (@yash1999v)
 - 👀 I’m interested in web technolgies
-- 🌱 I’m currently learning web development and DevOps.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m DevOps Enthusiast.
 - 📫 How to reach me @yashwanth1999v@gmail.com
 
 <!---
