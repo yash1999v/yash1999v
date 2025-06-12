@@ -1,6 +1,6 @@
 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
-Hi, I'm Yashwanth V, a passionate DevOps Engineer who loves automating workflows, optimizing cloud infrastructure, and implementing CI/CD pipelines. I specialize in:
+Hi, I'm Yashwanth V, a passionate DevOps lEARNER who loves automating workflows, optimizing cloud infrastructure, and implementing CI/CD pipelines. I specialize in:
 
 🔹 Infrastructure as Code (IaC): Terraform, AWS CloudFormation
 🔹 Cloud Platforms: AWS, Azure
