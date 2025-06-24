@@ -1,4 +1,4 @@
-🚀 DevOps Engineer | Cloud & Automation Enthusiast
+Automation Enthusiast | Let Bots do Broing work
 
 Hi, I'm Yashwanth V, a passionate DevOps lEARNER who loves automating workflows, optimizing cloud infrastructure, and implementing CI/CD pipelines. I specialize in:
 
