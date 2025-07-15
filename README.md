@@ -3,7 +3,7 @@ Automation Enthusiast | Let Bots do Broing work
 Hi, I'm Yashwanth V, a passionate DevOps lEARNER who loves automating workflows, optimizing cloud infrastructure, and implementing CI/CD pipelines. I specialize in:
 
 🔹 Infrastructure as Code (IaC): Terraform, AWS CloudFormation
-🔹 Cloud Platforms: AWS, Azure
+🔹 Cloud Platforms: AWS, 
 🔹 Containerization & Orchestration: Docker, Kubernetes
 🔹 CI/CD Pipelines: GitHub Actions, GitLab CI/CD
 🔹 Monitoring & Logging: Prometheus, Grafana
